@@ -67,6 +67,7 @@ nav{
    
     
 }
+
 .IGC a{
     color:#f4c20d;
 }
@@ -84,7 +85,8 @@ nav ul li a{
     margin: 0 3rem;
     position: relative;
     letter-spacing: 2px;
-    color:#4885ed;
+    color:white;
+    text-decoration: none;
 }
 nav ul li a:last-child{
     margin-right:0;
